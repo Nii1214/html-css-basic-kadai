@@ -26,3 +26,7 @@ h1 {
 .Pink {
     color: rgb(255, 192, 203) ;
 }
+
+#basic {
+    font-weight:bold;
+}
